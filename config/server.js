@@ -58,7 +58,7 @@ module.exports = {
 	cookieSecretKey: process.env.COOKIE_SECRET_KEY || '-',
 
 	// store UI language
-	language: process.env.LANGUAGE || 'en',
+	language: process.env.LANGUAGE || 'fr',
 
 	// used by API
 	orderStartNumber: 1000,
